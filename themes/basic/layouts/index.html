@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+{{ $pages := (where .Site.RegularPages "Type" "in" "posts").ByDate.Reverse }}
+{{ $paginator := .Paginate $pages }}
+{{ range $paginator.Pages }}
+    {{ partial "post-summary.html" . }}
+{{ end }}
+
+{{ template "_internal/pagination.html" .}}
+
+{{ .Content }}
+
+{{ end }}

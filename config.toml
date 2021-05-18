@@ -1,0 +1,17 @@
+baseURL = "http://example.org/"
+languageCode = "en"
+title = "Matthew French"
+description = "Digital design, film and photography"
+theme = "basic"
+relativeURLS = true
+
+paginate = 3
+
+[module]
+    [[module.mounts]]
+      source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+      target = "assets/js/bootstrap.bundle.min.js"
+
+[params]
+    author = "Matthew French"
+    description = "My portfolio site"

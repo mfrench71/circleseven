@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+<h2>{{ .Title }}</h2>
+
+{{ .Content }}
+
+{{ range .Data.Terms }}
+    {{ partial "taxonomy-summary.html" . }}
+{{ end }}
+
+{{ end }}
