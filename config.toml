@@ -3,7 +3,6 @@ languageCode = "en"
 title = "Matthew French"
 description = "Digital design, film and photography"
 theme = "basic"
-relativeURLS = true
 
 paginate = 3
 
