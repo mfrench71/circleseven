@@ -1,18 +1,18 @@
-<small class="meta d-flex my-3 text-muted">
-    <div class="date me-3">
+<small class="meta d-flex justify-content-between justify-content-md-start my-3 text-muted">
+    <div class="me-3 text-center text-md-start d-flex d-md-block flex-column flex-md-row">
         <i class="fas fa-calendar-alt"></i>
         {{ .Date.Format "2 January 2006" }}
     </div>
-    <div class="tags me-3">
+    <div class="me-3 text-center text-md-start d-flex d-md-block flex-column flex-md-row">
         <i class="fas fa-tags"></i>
         {{ range .Params.tags }}
             <a href="/tags/{{ . | urlize }}">{{ . }}</a>
         {{ end }}
     </div>
-    <div class="reading-time me-3">
+    <div class="me-3 text-center text-md-start d-flex d-md-block flex-column flex-md-row">
         <i class="fas fa-clock"></i> {{ math.Round (div (countwords .Content) 200.0) }} minute read
     </div>
-    <div class="author">
+    <div class="text-center text-md-start d-flex d-md-block flex-column flex-md-row">
         <i class="fas fa-pen"></i> {{ .Params.author }}
     </div>
 </small>
