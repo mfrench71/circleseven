@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+<h2 class="taxonomy-title pb-3 mb-4"><i class="fas fa-tags"></i> {{ .Title }}</h2>
+
+{{ .Content }}
+
+{{ range (.Paginate (.Pages.ByDate.Reverse )).Pages }}
+    {{ partial "post-summary.html" . }}
+{{ end }}
+
+{{ template "_internal/pagination.html" .}}
+
+{{ end }}
