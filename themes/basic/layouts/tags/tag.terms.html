@@ -5,7 +5,7 @@
 {{ .Content }}
 
 {{ range .Data.Terms }}
-    {{ partial "taxonomy-summary.html" . }}
+    <h2><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a> ({{ .Count }})</h2>
 {{ end }}
 
 {{ end }}
