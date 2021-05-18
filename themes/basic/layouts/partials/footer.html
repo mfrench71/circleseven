@@ -1,8 +1,6 @@
-<footer class="footer bg-dark">
-    <div class="row footer-text">
-        <div class="col-12 col-md text-center text-md-left nav-link text-white">
-            Copyright {{ now.Format "2006" }} Matthew French.
-        </div>
+<footer class="footer bg-dark text-white text-center">
+    <div class="p-1">
+        Copyright {{ now.Format "2006" }} Matthew French.
     </div>
     <!-- JavaScript and dependencies -->
     {{ $bootstrap := resources.Get "js/bootstrap.bundle.min.js" }}
