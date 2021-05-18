@@ -1,4 +1,32 @@
+body {
+    font-family: 'Lato', Sans-Serif;
+    color: #333333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arvo', Serif;
+}
+
 .navbar {
     background-color: rgba(255,255,255,0.95);
     box-shadow: 0 0.5rem 1rem RGB(0 0 0 / 5%), inset 0 -1px 0 RGB(0 0 0 / 15%);
+}
+
+article {
+
+    & h2 {
+
+        & a {
+            color: #333333;
+            text-decoration: none;
+
+            &:hover {
+                color: teal;
+            }
+        }
+    }
+}
+
+.fas {
+    color: teal;
 }

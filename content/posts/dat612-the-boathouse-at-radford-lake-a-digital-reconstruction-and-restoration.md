@@ -4,6 +4,7 @@ date: 2019-05-21T00:00:00+01:00
 draft: false
 description: ""
 author: Matthew French
+summary: "The concept of my project is a digital, interactive three-dimensional environment. The environment is based on a real location and recreates approximately 100 square metres of an area at Radford Lake, near Plymstock in Devon."
 categories:
 - Digital Art & Technology
 - DAT 612
@@ -16,8 +17,6 @@ tags:
 ## Concept
 
 The concept of my project is a digital, interactive three-dimensional environment. The environment is based on a real location and recreates approximately 100 square metres of an area at Radford Lake, near Plymstock in Devon.
-
-<!--more-->
 
 The core of the project lies, firstly, in the digital recreation of a portion of the ruins which are located next to Radford lake. This has been achieved through photogrammetry; that is, taking hundreds of photographs of the ruins, enhancing them, and digitally processing them using photogrammetry software in order to create textured three-dimensional geometry. This geometry is then further cleaned up using Blender 3D modelling software to create the finished models. These models are then incorporated into the digital environment that has been created in the Unity game engine software.
 

@@ -1,10 +1,9 @@
 baseURL = "/"
 languageCode = "en"
 title = "Matthew French"
-description = "Digital design, film and photography"
 theme = "basic"
 
-paginate = 3
+paginate = 5
 
 [module]
     [[module.mounts]]
@@ -13,4 +12,4 @@ paginate = 3
 
 [params]
     author = "Matthew French"
-    description = "My portfolio site"
+    description = "Matthew French - Digital design, film and photography"
