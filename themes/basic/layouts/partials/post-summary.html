@@ -2,11 +2,16 @@
     <header>
         <h2 class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     </header>
-    <section>
+    <section class="d-flex flex-column flex-sm-row">
         {{ with .Params.featured_image }}
-            <img src="{{ $.Site.Params.cloudinary_base_url }}/w_200/{{ . }}" alt="post-image"/>
+            <figure class="me-3">
+                <img 
+                    class="img-thumbnail"
+                    src="{{ $.Site.Params.cloudinary_base_url }}/{{ $.Site.Params.featured_image_parameters_list }}/{{ . }}.{{ $.Site.Params.featured_image_extension }}" 
+                    alt="post-image"/>
+            </figure>
         {{ end }}
-        {{ .Summary }}
+        <div>{{ .Summary }} <a href="{{ .RelPermalink }}"><i class="fas fa-angle-double-right"></i> Continue reading</a></div>
     </section>
     {{ partial "post-meta.html" . }}
 </article>

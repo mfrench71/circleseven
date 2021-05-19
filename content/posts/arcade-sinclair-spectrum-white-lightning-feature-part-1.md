@@ -11,6 +11,7 @@ categories:
 tags:
 - Retro Computing
 - Sinclair ZX Spectrum
+featured_image: white-lightning
 ---
 
 This is part one an a series of Spectrum White Lightning articles originally written in the late 1980s (when I was a teenager) for inclusion in our ZX Spectrum fanzine, 'Arcade'. Having re-read my scribblings almost 30 years later, I don't pretend to understand any of it. It might be useful. It might not. If you do find it useful or, at least, interesting, please leave a comment below.

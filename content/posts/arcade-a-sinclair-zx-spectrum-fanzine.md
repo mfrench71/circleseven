@@ -11,7 +11,7 @@ categories:
 tags:
 - Retro Computing
 - Sinclair ZX Spectrum
-featured_image: "1280px-ZXSpectrum48k.jpg"
+featured_image: zx-spectrum
 ---
 
 In the mid-1980s, I was a computer-obsessed teenager. The computer was Sir Clive Sinclair's rubber-keyed wonder, the [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum).
