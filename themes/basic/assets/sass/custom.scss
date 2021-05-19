@@ -80,3 +80,13 @@ article {
         text-decoration: none;
     }
 }
+
+footer {
+
+    & .logos {
+
+        img { 
+            height: 30px;
+        }
+    }
+}

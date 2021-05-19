@@ -1,5 +1,14 @@
-<footer class="footer bg-dark text-white text-center">
-    <div class="p-1">
+<footer class="footer text-center">
+    <small class="text-uppercase text-muted">
+        Powered by
+    </small>
+    <div class="logos d-flex justify-content-evenly flex-wrap px-4">
+        <img class="m-3" src="{{ .Site.Params.cloudinary_base_url }}/logos/hugo-logo" alt="Hugo logo">
+        <img class="m-3" src="{{ .Site.Params.cloudinary_base_url }}/logos/github-logo" alt="Github logo">
+        <img class="m-3" src="{{ .Site.Params.cloudinary_base_url }}/logos/cloudinary-logo" alt="Cloudinary logo">
+        <img class="m-3" src="{{ .Site.Params.cloudinary_base_url }}/logos/netlify-logo" alt="Netlify logo">
+    </div>
+    <div class="pb-4">
         Copyright {{ now.Format "2006" }} Matthew French.
     </div>
     <!-- JavaScript and dependencies -->
