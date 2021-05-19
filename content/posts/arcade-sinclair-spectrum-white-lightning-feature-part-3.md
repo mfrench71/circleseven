@@ -22,9 +22,9 @@ From the user manual:
 
 _"White Lightning_ is a high level development system for the Spectrum 48K. It is aimed primarily at the user who has commercial games writing in mind and has the patience to learn a sizeable new language. It is not a games designer and stunning results probably won't be produced overnight, but it does have the power and flexibility to produce software of a commercial standard (with a little perseverance!). "
 
-Read [part one](http://www.circleseven.co.uk/2018/03/09/arcade-spectrum-white-lightning-feature-part-1/) and [part two](http://www.circleseven.co.uk/2018/03/09/arcade-sinclair-spectrum-white-lightning-feature-part-2/).
+Read [part one]({{< relref "arcade-sinclair-spectrum-white-lightning-feature-part-1" >}}) and [part two]({{< relref "arcade-sinclair-spectrum-white-lightning-feature-part-2" >}}).
 
-For some further context for these articles, please see ['Arcade' - A Sinclair ZX Spectrum Fanzine](http://www.circleseven.co.uk/2018/03/07/arcade-zx-spectrum-fanzine/).
+For some further context for this article, please see ['Arcade' - A Sinclair ZX Spectrum Fanzine]({{< relref "arcade-a-sinclair-zx-spectrum-fanzine" >}}).
 
 ---
 
@@ -73,7 +73,3 @@ Matthew F.
 ---
 
 ## The Originals
-
-|                                                                                                                                    |                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| [![](./img/wp-content-uploads-2018-03-IMG_2234-225x300.jpg)](http://www.circleseven.co.uk/wp-content/uploads/2018/03/IMG_2234.jpg) | [![](./img/wp-content-uploads-2018-03-IMG_2235-225x300.jpg)](http://www.circleseven.co.uk/wp-content/uploads/2018/03/IMG_2235.jpg) |

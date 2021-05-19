@@ -63,13 +63,9 @@ A member of the PAS suggested the now derelict saw mill that stands at the head 
 
 Following my muddy visit to the saw mill site, I paid a visit to the resource centre at the Kingsbridge Cookworthy Museum. With the help of the staff, I was able to view the range of photographs of the mill. Unfortunately, the majority of them were, for one reason or another, unusable; the most useful image is this postcard of a painting of the mill dating from the early 1900s:
 
-[![](http://www.circleseven.co.uk/wp-content/uploads/2019/02/postcard.jpg)](./img/wp-content-uploads-2019-02-postcard.jpg)
-
 The lack of detailed photographs would make a digital restoration of this site challenging. It was also a large site on a steep bank and approximately an hour’s drive from my home (a consideration when multiple visits would be required). However, the staff at the museum provided me with the details of the Devon Rural Archive where further material might be available.
 
 A visit to the Devon Rural Archive confirmed the lack of archive material relating to the saw mill. There was, however, material available for another site that I had in mind: the Boathouse at Radford Lake. This site lent itself well to my proposed project; it is easily accessible, can be photographed from (almost) 360 degrees, and there are some archive images available from which it would be possible to digitally recreate the structure and its surrounding environment. The staff at the Devon Rural Archive were also able to give me the name of a local historian (Brian Steele) who had written a booklet on the history of Radford. In turn, Brian provided me with contact details for Neill Mitchell, a relative of the last owner of Radford House (now demolished), in the grounds of which the Boathouse once stood. Neill was kind enough to send me some good quality scanned images of photographs and these have proved invaluable in creating the restoration assets.
-
-\[one_half][![](./img/wp-content-uploads-2019-05-IMG_0131-300x225.jpg)](http://www.circleseven.co.uk/wp-content/uploads/2019/05/IMG_0131.jpg)\[one_half_last][![](./img/wp-content-uploads-2019-05-RADFORD-St.-Kevernes-2-circa-1880s-90s-Wightman-300x188.jpg)](http://www.circleseven.co.uk/wp-content/uploads/2019/05/RADFORD-St.-Kevernes-2-circa-1880s-90s-Wightman.jpg)
 
 Additional images were sourced from the internet and from the archives at Plymouth City Council.
 
@@ -93,8 +89,6 @@ With the buildings photographed, the images were cleaned up in Photoshop to remo
 
 The images are processed in RealityCapture via a series of processes: analysis of the images, the generation of a point cloud, the creation of geometry, decimation (simplification) of the geometry, texturing, and final export as an .FBX file for importing into Unity. The process can be quite lengthy, even with a moderately high-specification PC.
 
-[![](./img/wp-content-uploads-2019-02-armoury_feature-1024x564.jpg)](http://www.circleseven.co.uk/wp-content/uploads/2019/02/armoury_feature.jpg)
-
 The models that RealityCapture generates are of a generally high quality. However, the simplification process introduces some unwanted geometry. This, combined with my inability to cover some of the highest elevations of the structures, meant that further editing of the models was required.
 
 This editing was carried out in Blender and largely involved removing floating artefacts, removing elements created as a result of the simplification process, and closing holes in geometry. This was extremely time-consuming as the models being edited were comprised of millions of vertices. However, the resulting models, once imported into Unity had a much better visual appearance.
@@ -115,8 +109,6 @@ To simulate the restoration process, a number of assets from the original buildi
 A sample of the ‘restoration’ assets:
 
 Once these assets were incorporated and correctly scaled and positioned in relation to the original buildings, simulating the restoration was a matter of animating assets based on a user’s line of sight. For example, when a user interacts with the armoury, the roof flies off, the windows and doors shoot smoothly out of sight, the floor lowers into the ground, and the crackling log fire is extinguished (along with the smoke from the chimney). Another keypress from the user reverses this process: everything settles gently back into place and the fire is rekindled. This animation process is applied to all of the restoration assets.
-
-[![](./img/wp-content-uploads-2019-05-Unity-2018.3.8f1-Personal-SampleScene.unity-Final-Year-Project-PC-Mac-Linux-Standalone-_DX11_-14_05_2019-19_23_30-1024x478.png)](http://www.circleseven.co.uk/wp-content/uploads/2019/05/Unity-2018.3.8f1-Personal-SampleScene.unity-Final-Year-Project-PC-Mac-Linux-Standalone-_DX11_-14_05_2019-19_23_30.png)
 
 The armoury doors have additional interaction, in that the user is able to open and close these with a keypress. This triggers an appropriate audio effect.
 
