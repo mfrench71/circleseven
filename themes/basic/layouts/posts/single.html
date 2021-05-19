@@ -4,7 +4,7 @@
         <figure class="text-center">
             <img 
                 class="img-fluid" 
-                src="{{ $.Site.Params.cloudinary_base_url }}/{{ $.Site.Params.featured_image_parameters_single }}/{{ . }}.{{ $.Site.Params.featured_image_extension }}" 
+                src="{{ $.Site.Params.cloudinary_base_url }}/w_{{ $.Site.Params.featured_image_single_width }}/{{ . }}.{{ $.Site.Params.featured_image_extension }}" 
                 alt="post-image"/>
         </figure>
     {{ end }}

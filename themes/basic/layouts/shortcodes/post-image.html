@@ -1,0 +1,8 @@
+{{ $baseURL := .Site.Params.cloudinary_base_url }}
+{{ $image := .Get "image" }}
+{{ $imageWidth := .Get "width" }}
+{{ $url := print $baseURL "/w_" $imageWidth "/" $image }}
+<figure class="figure">
+    <img src="{{ $url }}" alt="{{ .Get "caption" }}" class="figure-img img-fluid rounded">
+    {{ with .Get "caption" }}<figcaption class="figure-caption">{{ . }}</figcaption>{{ end }}
+</figure>

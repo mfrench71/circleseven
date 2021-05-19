@@ -50,8 +50,6 @@ ENTER and SPACE for left and right. CAPS SHIFT and Z for up and down. SYMBOL SHI
 
 If you want to use your own keys, then here are the keyboard numbers (what a service!)
 
-[![](./img/wp-content-uploads-2018-03-IMG_2236-e1520947600686-300x225.jpg)](http://www.circleseven.co.uk/wp-content/uploads/2018/03/IMG_2236.jpg)
-
 **Notes on conversion:**
 
 Line 0: sets up the dimensions and positions of the window.
