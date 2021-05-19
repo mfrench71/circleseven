@@ -1,19 +1,19 @@
 <small class="meta d-flex justify-content-between justify-content-md-start my-3 text-muted">
-    <div class="me-3 text-center text-md-start d-flex d-md-block flex-column flex-md-row">
+    <div class="me-3 text-center text-lg-start d-flex d-md-block flex-column flex-md-row">
         <i class="fas fa-calendar-alt mb-1"></i>
         {{ .Date.Format "2 January 2006" }}
     </div>
-    <div class="me-3 text-center text-md-start d-flex d-md-block flex-column flex-md-row">
+    <div class="me-3 text-center text-lg-start d-flex d-md-block flex-column flex-md-row">
         <div class="d-inline tags">
             {{ range .Params.tags }}
                 <a class="badge rounded-pill mb-1" href="/tags/{{ . | urlize }}">{{ . }}</a>
             {{ end }}
         </div>
     </div>
-    <div class="me-3 text-center text-md-start d-flex d-md-block flex-column flex-md-row">
+    <div class="me-3 text-center text-lg-start d-flex d-md-block flex-column flex-md-row">
         <i class="fas fa-clock mb-1"></i> {{ math.Round (div (countwords .Content) 200.0) }} minute read
     </div>
-    <div class="text-center text-md-start d-flex d-md-block flex-column flex-md-row">
+    <div class="text-center text-lg-start d-flex d-md-block flex-column flex-md-row">
         <i class="fas fa-pen mb-1"></i> {{ .Params.author }}
     </div>
 </small>
