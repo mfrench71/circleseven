@@ -1,0 +1,10 @@
+<h2>Tags</h2>
+{{ $tags := $.Site.Taxonomies.tags.Alphabetical }}
+{{ $count := 0 }}
+{{ range $key, $tag := $tags }}
+    {{ if $tag.Term }}
+        {{ $tagURL := printf "tags/%s" $tag.Term | relURL }}
+        <a class="badge rounded-pill mb-1" style="font-size: {{ add 100 (mul (sub $tag.Count 8) 5) }}%;"
+        href="{{ $tagURL }}">{{ replace $tag.Term "-" " " | title }}</a>
+    {{ end }}
+{{ end }}

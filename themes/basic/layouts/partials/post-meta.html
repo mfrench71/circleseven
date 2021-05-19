@@ -4,10 +4,11 @@
         {{ .Date.Format "2 January 2006" }}
     </div>
     <div class="me-3 text-center text-md-start d-flex d-md-block flex-column flex-md-row">
-        <i class="fas fa-tags mb-1"></i>
-        {{ range .Params.tags }}
-            <a href="/tags/{{ . | urlize }}">{{ . }}</a>
-        {{ end }}
+        <div class="d-inline tags">
+            {{ range .Params.tags }}
+                <a class="badge rounded-pill mb-1" href="/tags/{{ . | urlize }}">{{ . }}</a>
+            {{ end }}
+        </div>
     </div>
     <div class="me-3 text-center text-md-start d-flex d-md-block flex-column flex-md-row">
         <i class="fas fa-clock mb-1"></i> {{ math.Round (div (countwords .Content) 200.0) }} minute read

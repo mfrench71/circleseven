@@ -24,6 +24,16 @@ h1, h2, h3, h4, h5, h6 {
 
 article {
 
+    a {
+        color: teal;
+        text-decoration: none;
+
+        &:hover {
+            color: teal;
+            text-decoration: underline;
+        }
+    }
+
     & h2 {
 
         & a {
@@ -51,18 +61,22 @@ article {
             color: teal;
         }
     }
-
-    a {
-        color: teal;
-        text-decoration: none;
-
-        &:hover {
-            color: teal;
-            text-decoration: underline;
-        }
-    }
 }
 
 .taxonomy-title {
     border-bottom: 3px solid teal;
+}
+
+.badge {
+    background-color: teal;
+    border: 1px solid transparent;
+    line-height: 0.6rem;
+    text-decoration: none;
+
+    &:hover {
+        background-color: white;
+        color: teal;
+        border: 1px solid teal;
+        text-decoration: none;
+    }
 }
