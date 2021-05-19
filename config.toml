@@ -13,3 +13,5 @@ paginate = 5
 [params]
     author = "Matthew French"
     description = "Matthew French - Digital design, film and photography"
+    cloudinary_base_url = "https://res.cloudinary.com/circleseven/image/upload/"
+    featured_image_parameters = "w_400"

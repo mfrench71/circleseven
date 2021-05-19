@@ -3,6 +3,9 @@
         <h2 class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     </header>
     <section>
+        {{ with .Params.featured_image }}
+            <img src="{{ $.Site.Params.cloudinary_base_url }}/w_200/{{ . }}" alt="post-image"/>
+        {{ end }}
         {{ .Summary }}
     </section>
     {{ partial "post-meta.html" . }}
