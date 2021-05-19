@@ -8,8 +8,10 @@
         <img class="m-3" src="{{ .Site.Params.cloudinary_base_url }}/logos/cloudinary-logo" alt="Cloudinary logo">
         <img class="m-3" src="{{ .Site.Params.cloudinary_base_url }}/logos/netlify-logo" alt="Netlify logo">
     </div>
-    <div class="pb-4">
-        Copyright {{ now.Format "2006" }} Matthew French.
+    <div class="bg-light p-4 mt-3">
+        <small class="text-uppercase text-muted">
+            Copyright {{ now.Format "2006" }} Matthew French
+        </small>
     </div>
     <!-- JavaScript and dependencies -->
     {{ $bootstrap := resources.Get "js/bootstrap.bundle.min.js" }}
