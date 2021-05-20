@@ -67,3 +67,7 @@ Matthew F.
 ---
 
 ## The Originals
+
+{{< post-image image="white-lighting-1-original-1.jpg" width="300" caption="" >}}
+
+{{< post-image image="white-lightning-1-original-2.jpg" width="300" caption="" >}}

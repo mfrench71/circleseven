@@ -18,9 +18,9 @@ In the mid-1980s, I was a computer-obsessed teenager. The computer was Sir Clive
 
 Like other devotees, I possessed piles of Spectrum games, magazines ([Sinclair User](https://www.sinclairuser.com/), [Crash](http://www.crashonline.org.uk/), [Your Sinclair](https://www.yoursinclair.co.uk/)), and more peripherals than you could shake a Kempston joystick at.
 
-I spent countless hours playing games, reading about games, typing in games from listings published in magazines (and then trying to make them work), and making trips to WHSmith to buy more games and magazines.
-
 <!--more-->
+
+I spent countless hours playing games, reading about games, typing in games from listings published in magazines (and then trying to make them work), and making trips to WHSmith to buy more games and magazines.
 ​
 At school, my like-minded friend, [Adam Bell](http://www.adamjohnbell.org/), was equally enthralled with Sir Clive's 8-bit gem. We would get together, hunched around the diminutive plastic and rubber keyboard, to play two-player games such as Renegade, Way of the Exploding Fist ...
 
