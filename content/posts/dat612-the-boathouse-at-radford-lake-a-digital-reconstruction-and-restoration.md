@@ -1,13 +1,13 @@
 ---
 title: 'DAT612 - The Boathouse at Radford Lake - A Digital Reconstruction & Restoration'
-date: 2019-05-21T00:00:00+01:00
+date: 2019-05-21T11:00:00+01:00
 draft: false
 description: ""
 author: Matthew French
 summary: "The concept of my project is a digital, interactive three-dimensional environment. The environment is based on a real location and recreates approximately 100 square metres of an area at Radford Lake, near Plymstock in Devon."
 categories:
 - Digital Art & Technology
-- DAT 612
+- DAT612
 tags:
 - Photogrammetry
 - Portfolio
