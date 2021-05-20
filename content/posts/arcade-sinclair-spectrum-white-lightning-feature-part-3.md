@@ -50,6 +50,8 @@ ENTER and SPACE for left and right. CAPS SHIFT and Z for up and down. SYMBOL SHI
 
 If you want to use your own keys, then here are the keyboard numbers (what a service!)
 
+{{< post-image image="white-lightning-3-keyboard.jpg" width="300" caption="" >}}
+
 **Notes on conversion:**
 
 Line 0: sets up the dimensions and positions of the window.
@@ -71,3 +73,6 @@ Matthew F.
 ---
 
 ## The Originals
+
+{{< post-image image="white-lightning-3-original-1.jpg" width="300" caption="" >}}
+{{< post-image image="white-lightning-3-original-2.jpg" width="300" caption="" >}}

@@ -11,10 +11,8 @@
                     alt="post-image"/>
             </figure>
         {{ end }}
-        <div>{{ .Summary }}
-            <small>
-                <a class="text-uppercase float-end" href="{{ .RelPermalink }}"><i class="fas fa-angle-double-right"></i> Continue reading</a>
-            </small>
+        <div>
+            {{ .Summary }}
         </div>
     </section>
     {{ partial "post-meta.html" . }}
