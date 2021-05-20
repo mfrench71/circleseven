@@ -15,6 +15,8 @@
     </div>
     <!-- JavaScript and dependencies -->
     {{ $bootstrap := resources.Get "js/bootstrap.bundle.min.js" }}
-    {{ $js := slice $bootstrap | resources.Concat "js/bootstrap.bundle.js" | resources.Minify }}
+    {{ $lunr := resources.Get "js/lunr.min.js" }}
+    {{ $js := slice $bootstrap $lunr | resources.Concat "js/bundle.js" | resources.Minify }}
     <script src="{{ $js.RelPermalink }}" defer></script>
+    <script src="/js/search.js" defer></script>
 </footer>

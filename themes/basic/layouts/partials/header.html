@@ -1,5 +1,12 @@
 <nav class="navbar sticky-top navbar">
     <div class="container-fluid">
-      <h1><a class="navbar-brand" href="/">{{ .Site.Title }}</a></h1>
+        <h1><a class="navbar-brand" href="/">{{ .Site.Title }}</a></h1>
+        <form class="d-flex" 
+            action='{{ with .GetPage "/search" }}{{.Permalink}}{{end}}' method="get">
+            <input id="search-input" name="query" 
+                class="form-control me-2" type="search"
+                placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-light" type="submit">Search</button>
+        </form>
     </div>
 </nav>

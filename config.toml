@@ -10,6 +10,10 @@ paginate = 5
       source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
       target = "assets/js/bootstrap.bundle.min.js"
 
+    [[module.mounts]]
+      source = "node_modules/lunr/lunr.min.js"
+      target = "assets/js/lunr.min.js"
+
 [params]
     author = "Matthew French"
     description = "Matthew French - Digital design, film and photography"
