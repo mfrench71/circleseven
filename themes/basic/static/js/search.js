@@ -5,10 +5,12 @@ function displayResults (results, store) {
       // Iterate and build result list elements
       for (const n in results) {
         const item = store[results[n].ref]
+        resultList += '<article class="post mb-5">';
         resultList += '<header>';
         resultList += '<h4 class="title"><a href="' + item.url + '">' + item.title + '</a></h4>';
         resultList += '</header>';
         resultList += '<p>' + item.content.substring(0, 150) + '...</p></li>'
+        resultList += '</article>';
       }
       searchResults.innerHTML = resultList
     } else {
