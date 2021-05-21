@@ -2,11 +2,11 @@
   [
     { 
       "name": "right",
-      "style": "float-end ms-3 mb-3"
+      "style": "float-none float-md-end ms-md-4 mb-3"
     },
     { 
       "name": "left",
-      "style": "float-start me-3 mb-3"
+      "style": "float-none float-md-start me-md-4 mb-3"
     }
   ]
 }
