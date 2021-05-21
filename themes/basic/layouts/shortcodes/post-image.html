@@ -1,8 +1,10 @@
 {{ $baseURL := .Site.Params.cloudinary_base_url }}
 {{ $imageName := .Get "image" }}
 {{ $imageWidth := .Get "width" }}
+{{ $imageClass := .Get "class" }}
 {{ $imageSource := print $baseURL "/" $imageName }}
-<figure class="figure post-figure">
+<figure class="figure post-figure 
+    {{ range where .Site.Data.classes.align "name" $imageClass }}{{ .style }}{{ end }}">
     <a data-bs-toggle="modal" data-bs-target="#data-{{ $imageSource | md5 }}">
         <img class="figure-img img-fluid rounded" src="{{ $imageSource }}" alt="{{ .Get "caption" }}">
         {{ with .Get "caption" }}<figcaption class="figure-caption">{{ . }}</figcaption>{{ end }}
@@ -10,12 +12,15 @@
 </figure>
 
 <!-- Modal -->
-<div class="modal fade" id="data-{{ $imageSource | md5 }}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-body">
-        <img class="figure-img img-fluid rounded" src="{{ $imageSource }}" alt="{{ .Get "caption" }}">
-      </div>
+<div class="modal fade" 
+    id="data-{{ $imageSource | md5 }}"
+    tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-body">
+                <img class="figure-img img-fluid rounded" 
+                    src="{{ $imageSource }}" alt="{{ .Get "caption" }}">
+            </div>
+        </div>
     </div>
-  </div>
 </div>

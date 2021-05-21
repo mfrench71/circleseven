@@ -20,9 +20,7 @@ As one of our favourite titles, we decided to include a review for Zynaps as par
 
 <!--more-->
 
-{{< post-image image="zynaps-original.jpg" width="300" caption="The original hard copy of our 'expertly' desk-top published review written as teenagers in the 1980s" >}}
-
----
+{{< post-image image="zynaps-original.jpg" width="300" class="right" caption="The original hard copy of our 'expertly' desk-top published review written as teenagers in the 1980s" >}}
 
 ## Zynaps
 
@@ -46,9 +44,7 @@ The Mk. 1 Scorpion fighter craft is equipped with a wide range of weaponry and a
 
 Destroying complete waves and individual aliens get you points. A bonus life is give at 10,000 points and every 20,000 thereafter.
 
----
-
-Find out more about Zynaps on the Sinclair ZX Spectrum:
+**Find out more about Zynaps on the Sinclair ZX Spectrum:**
 
 - [World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0005890)
 - [Crash Magazine Review](http://www.crashonline.org.uk/42/zynaps.htm)

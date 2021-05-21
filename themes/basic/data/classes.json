@@ -1,0 +1,12 @@
+{ "align":
+  [
+    { 
+      "name": "right",
+      "style": "float-end ms-3 mb-3"
+    },
+    { 
+      "name": "left",
+      "style": "float-start me-3 mb-3"
+    }
+  ]
+}
