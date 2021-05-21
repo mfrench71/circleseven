@@ -1,8 +1,21 @@
 {{ $baseURL := .Site.Params.cloudinary_base_url }}
-{{ $image := .Get "image" }}
+{{ $imageName := .Get "image" }}
 {{ $imageWidth := .Get "width" }}
-{{ $url := print $baseURL "/" $image }}
+{{ $imageSource := print $baseURL "/" $imageName }}
 <figure class="figure post-figure">
-    <img class="figure-img img-fluid rounded" src="{{ $url }}" alt="{{ .Get "caption" }}">
-    {{ with .Get "caption" }}<figcaption class="figure-caption">{{ . }}</figcaption>{{ end }}
+    <a data-bs-toggle="modal" data-bs-target="#data-{{ $imageSource | md5 }}">
+        <img class="figure-img img-fluid rounded" src="{{ $imageSource }}" alt="{{ .Get "caption" }}">
+        {{ with .Get "caption" }}<figcaption class="figure-caption">{{ . }}</figcaption>{{ end }}
+    </a>
 </figure>
+
+<!-- Modal -->
+<div class="modal fade" id="data-{{ $imageSource | md5 }}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+        <img class="figure-img img-fluid rounded" src="{{ $imageSource }}" alt="{{ .Get "caption" }}">
+      </div>
+    </div>
+  </div>
+</div>
