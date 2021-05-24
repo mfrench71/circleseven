@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=3qHA366oRMs
 
 <!--more-->
 
-"Crowdsourcing is the process of getting work or funding, usually online, from a crowd of people. The word is a combination of the words 'crowd' and 'outsourcing'. The idea is to take work and outsource it to a crowd of workers." (<http://dailycrowdsource.com/training/crowdsourcing/what-is-crowdsourcing>)
+"Crowdsourcing is a sourcing model in which individuals or organizations obtain goods or services, including ideas, voting, micro-tasks and finances, from a large, relatively open and often rapidly evolving group of participants." (<https://en.wikipedia.org/wiki/Crowdsourcing>)
 
 Example crowdsourced music video:
 
