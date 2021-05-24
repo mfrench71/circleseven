@@ -5,8 +5,6 @@ draft: false
 description: 
 author: Matthew French
 categories:
-- Projects
-- Motion Graphics
 tags:
 - Blender
 - Motion Graphics

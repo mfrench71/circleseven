@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en"
 title = "Matthew French"
 theme = "basic"
+disqusShortname = "circleseven-1"
 
 paginate = 5
 

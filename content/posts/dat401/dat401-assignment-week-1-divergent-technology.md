@@ -5,9 +5,8 @@ draft: false
 description: 
 author: Matthew French
 categories:
-- Digital Art & Technology
-- DAT401 - Strategies for Digital Art and Technology
 tags:
+- Digital Art and Technology
 - Portfolio
 featured_image: dat401-assignment-1
 ---

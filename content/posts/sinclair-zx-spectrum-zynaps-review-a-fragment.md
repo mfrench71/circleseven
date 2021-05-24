@@ -5,9 +5,6 @@ draft: false
 description: 
 author: Matthew French
 categories:
-- Projects
-- Retro Computing
-- Sinclair ZX Spectrum
 tags:
 - Retro Computing
 - Sinclair ZX Spectrum
