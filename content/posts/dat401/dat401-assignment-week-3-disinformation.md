@@ -27,7 +27,7 @@ The second idea, and the one that the group decided to pursue was, again, to use
 
 <!--more-->
 
-### Message in a Body
+#### Message in a Body
 
 The group thought that it would be novel, challenging and unusual to present a performance or send a message/make a statement through the medium of medical X-rays. This method of communication might also raise a number of discussion points around privacy, ethics and morality.
 
@@ -37,7 +37,7 @@ The group thought that it would be novel, challenging and unusual to present a p
 
 In his article, Clarke states that privacy includes "privacy of the physical person". Individuals choosing this method of communication maintain their physical privacy, but only up until the point that their message is revealed by the medium of x-ray. Individuals are, however, willingly abdicating their privacy at a time, to a large extent, of their choosing.
 
-**Why the human body?**
+#### Why the human body?
 
 - Data/message remains inviolate
 - A unique biological fingerprint/genome authentication might be employed to restrict access to information
@@ -74,7 +74,7 @@ In a previous lecture, we examined the contributions made to the PostSecret webs
 
 {{< post-image image="dat401-assignment-3-hiv-detail.jpg" width="300" class="" caption="Hip X-ray showing ‘HIV+’ message (detail)" >}}
 
-**How else might messages be communicated?**
+#### How else might messages be communicated?
 
 - Tatoos
 - QR codes
@@ -82,7 +82,7 @@ In a previous lecture, we examined the contributions made to the PostSecret webs
 - Serial numbers
 - URLs
 
-**Alternative methods of communication**
+#### Alternative methods of communication
 
 As we started looking into communication via X-ray, we inevitably stumbled upon other bodily methods of storing and transmitting information. Here a just a couple of ideas that we may see in the not too distant future:
 
