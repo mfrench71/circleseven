@@ -21,7 +21,7 @@ Myself and Jordan Trembeth decided to create an artistic intervention by placing
 
 We were interested to see people's reaction and engagement with these items being placed literally in their path in an environment where such things would be incongruous and unexpected.
 
-https://youtu.be/U8wE0-wLMuc
+{{< youtube id="U8wE0-wLMuc" class="youtube" >}}
 
 I was pleasantly surprised by the interest shown by passers by; eight performance were captured within a period of approximately 90 minutes. The conversations that we had with those taking part were interesting and entertaining. Several people mentioned that they played guitar or used to play guitar. Leaving an instrument out in the open, inviting interaction, seemed to bring something out in people. We even had one individual who had never played in his life but gamely had a go!
 

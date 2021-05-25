@@ -15,15 +15,13 @@ Brief: Produce a crowdsourced 2D image, illustration, animation, film, sound pie
 
 Working in a group of three, we decided to produce a crowdsourced film made up of short video clips of contributors reading a line each from the opening song of TV series, _The Fresh Prince of Bel Air_.
 
-https://www.youtube.com/watch?v=3qHA366oRMs
-
 <!--more-->
 
 "Crowdsourcing is a sourcing model in which individuals or organizations obtain goods or services, including ideas, voting, micro-tasks and finances, from a large, relatively open and often rapidly evolving group of participants." (<https://en.wikipedia.org/wiki/Crowdsourcing>)
 
 Example crowdsourced music video:
 
-https://www.youtube.com/watch?v=c_CbmW-dBxo
+{{< youtube id="c_CbmW-dBxo" class="youtube" >}}
 
 There was an initial group discussion around:
 

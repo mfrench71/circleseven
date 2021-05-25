@@ -62,7 +62,7 @@ article {
         }
     }
 
-    & .vimeo {
+    & .vimeo, .youtube {
         position: relative;
         padding-bottom: 56.25%;
         height: 0;
@@ -114,14 +114,5 @@ footer {
         img { 
             height: 30px;
         }
-    }
-}
-
-.collapse.dont-collapse-sm {
-    
-    @media (min-width: 576px) {
-        display: block;
-        height: auto !important;
-        visibility: visible;
     }
 }
