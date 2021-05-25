@@ -7,7 +7,7 @@ author: Matthew French
 summary: "The concept of my project is a digital, interactive three-dimensional environment. The environment is based on a real location and recreates approximately 100 square metres of an area at Radford Lake, near Plymstock in Devon."
 categories:
 tags:
-- Digital Art and Technology
+- DAT
 - Photogrammetry
 - Portfolio
 - Unity

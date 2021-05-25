@@ -6,7 +6,7 @@ description:
 author: Matthew French
 categories:
 tags:
-- Digital Art and Technology
+- DAT
 - Portfolio
 featured_image: dat401-assignment-1
 ---

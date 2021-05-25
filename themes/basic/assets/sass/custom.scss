@@ -34,7 +34,7 @@ article {
         }
     }
 
-    & h2 {
+    & h2, h4 {
 
         & a {
             color: #333333;
@@ -90,7 +90,6 @@ article {
     }
 }
 
-
 footer {
 
     & .logos {
@@ -98,5 +97,14 @@ footer {
         img { 
             height: 30px;
         }
+    }
+}
+
+.collapse.dont-collapse-sm {
+    
+    @media (min-width: 576px) {
+        display: block;
+        height: auto !important;
+        visibility: visible;
     }
 }

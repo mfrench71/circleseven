@@ -5,6 +5,6 @@
     {{ if $tag.Term }}
         {{ $tagURL := printf "tags/%s" $tag.Term | relURL }}
         <a class="badge rounded-pill mb-1" style="font-size: {{ add 100 (mul (sub $tag.Count 8) 5) }}%;"
-        href="{{ $tagURL }}">{{ replace $tag.Term "-" " " | title }}</a>
+        href="{{ $tagURL }}">{{ replace $tag.Term "-" " " }}</a>
     {{ end }}
 {{ end }}

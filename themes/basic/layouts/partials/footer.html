@@ -19,5 +19,4 @@
     {{ $search := resources.Get "js/search.js" }}
     {{ $js := slice $bootstrap $lunr $search | resources.Concat "js/bundle.js" | resources.Minify }}
     <script src="{{ $js.RelPermalink }}" defer></script>
-    <script src="/js/search.js" defer></script>
 </footer>
