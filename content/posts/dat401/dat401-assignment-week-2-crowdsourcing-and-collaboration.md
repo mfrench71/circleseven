@@ -8,7 +8,7 @@ categories:
 tags:
 - DAT
 - Portfolio
-# featured_image: dat401-assignment-2
+featured_image: dat401-assignment-2
 ---
 
 Brief: Produce a crowdsourced 2D image, illustration, animation, film, sound piece or music track.
