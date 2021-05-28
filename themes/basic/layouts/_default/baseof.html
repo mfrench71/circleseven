@@ -8,8 +8,9 @@
                 <div class="col-12 col-md-8">
                     {{- block "main" . }}{{- end }}
                 </div>
-                <div class="col-12 col-md-4 order-first order-md-last pb-4 pb-md-0">
+                <div class="col-12 col-md-4 pb-4 pb-md-0">
                     {{ partial "tag-cloud.html" . }}
+                    {{ partial "recent-posts.html" . }}
                 </div>
             </div>
         </div>

@@ -1,0 +1,8 @@
+<div class="recent-posts mt-5">
+    <h3>Recent Posts</h3>
+    <ul>
+        {{ range ( where site.RegularPages "Section" "posts" | first 5 ) }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ul>
+</div>

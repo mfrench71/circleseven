@@ -9,6 +9,16 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
 }
 
+a {
+    color: teal;
+    text-decoration: none;
+
+    &:hover {
+        color: teal;
+        text-decoration: underline;
+    }
+}
+
 .navbar {
     background-color: rgba(0, 128, 128,0.95);
     box-shadow: 0 0.5rem 1rem RGB(0 0 0 / 18%), inset 0 -1px 0 RGB(0 0 0 / 15%);
@@ -22,17 +32,25 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
-article {
+.recent-posts {
 
-    & a {
-        color: teal;
-        text-decoration: none;
+    & ul {
+        list-style: none;
+        padding-left: 0;
 
-        &:hover {
-            color: teal;
-            text-decoration: underline;
+        & li {
+            padding-top: 0.25rem;
+            padding-bottom: 0.25rem;
+            border-bottom: 1px solid #cdced0;
+
+            &:first-of-type {
+                border-top: 1px solid #cdced0;
+            }
         }
     }
+}
+
+article {
 
     & h2, h4 {
 

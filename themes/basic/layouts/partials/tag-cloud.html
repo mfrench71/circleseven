@@ -1,10 +1,12 @@
-<h2>Tags</h2>
-{{ $tags := $.Site.Taxonomies.tags.Alphabetical }}
-{{ $count := 0 }}
-{{ range $key, $tag := $tags }}
-    {{ if $tag.Term }}
-        {{ $tagURL := printf "tags/%s" $tag.Term | relURL }}
-        <a class="badge rounded-pill mb-1" style="font-size: {{ add 100 (mul (sub $tag.Count 8) 5) }}%;"
-        href="{{ $tagURL }}">{{ replace $tag.Term "-" " " }}</a>
+<div class="mt-5 mt-md-0">
+    <h3>Tags</h3>
+    {{ $tags := $.Site.Taxonomies.tags.Alphabetical }}
+    {{ $count := 0 }}
+    {{ range $key, $tag := $tags }}
+        {{ if $tag.Term }}
+            {{ $tagURL := printf "tags/%s" $tag.Term | relURL }}
+            <a class="badge rounded-pill mb-1" style="font-size: {{ add 100 (mul (sub $tag.Count 8) 5) }}%;"
+                href="{{ $tagURL }}">{{ replace $tag.Term "-" " " }}</a>
+        {{ end }}
     {{ end }}
-{{ end }}
+</div>
