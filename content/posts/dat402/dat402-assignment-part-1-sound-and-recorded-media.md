@@ -8,7 +8,7 @@ categories:
 tags:
 - DAT
 - Sound Design
-featured_image: dat402-part-1
+featured_image: dat402-featured-image
 ---
 
 #### The Brief
