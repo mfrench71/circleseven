@@ -45,10 +45,6 @@ Long Story Short
 
 {{< vimeo id="145783029" class="vimeo" >}}
 
-Dominic Gagnon RIP In Pieces America / Dominic Gagnon
-
-{{< youtube id="s7metFZLz2w" class="youtube" >}}
-
 Another example in this genre is _Eight Characters and Two Syllables_ where filmmaker Andreas Schneider has edited material from make-up community YouTube channels, and offers us a window into the way in which YouTuber's experience community and notoriety.
 
 #### Initial Research
