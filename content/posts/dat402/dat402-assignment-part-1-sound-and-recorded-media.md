@@ -1,9 +1,10 @@
 ---
-title: "DAT402 - Assignment Part 1: Sound and Recorded Media"
+title: "DAT402 Assignment Part 1 - Sound and Recorded Media"
 date: 2016-05-23T12:53:00+01:00
 draft: false
-description: Working individually create a radiophonic sound work that responds to one of the pieces of class reading material. Select one idea from your chosen reading to explore through sound. The work should be long enough to make a good job of this and you should provide a few sentences to introduce the piece that support your thinking and approach.
+description:
 author: Matthew French
+summary: Working individually create a radiophonic sound work that responds to one of the pieces of class reading material. Select one idea from your chosen reading to explore through sound. The work should be long enough to make a good job of this and you should provide a few sentences to introduce the piece that support your thinking and approach.
 categories:
 tags:
 - DAT
