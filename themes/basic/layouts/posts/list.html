@@ -11,3 +11,8 @@
 {{ template "_internal/pagination.html" .}}
 
 {{ end }}
+
+{{ define "sidebar" }}
+{{ partial "tag-cloud.html" . }}
+{{ partial "recent-posts.html" . }}
+{{ end }}

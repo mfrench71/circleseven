@@ -22,3 +22,28 @@ paginate = 5
     featured_image_list_width = 200
     featured_image_single_width = 400
     post_image_width = 300
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xhtml = false
+    [markup.tableOfContents]
+      endLevel = 5
+      ordered = false
+      startLevel = 4

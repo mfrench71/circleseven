@@ -5,3 +5,8 @@
 </div>
 {{ partial "search-index.html" . }}
 {{ end }}
+
+{{ define "sidebar" }}
+{{ partial "tag-cloud.html" . }}
+{{ partial "recent-posts.html" . }}
+{{ end }}

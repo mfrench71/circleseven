@@ -10,7 +10,7 @@ tags:
 featured_image: dat401-loveyourmorphology
 ---
 
-Following on from the [previous post], I spent some time mashing up some clips from my favourite movie, _Blade Runner_, with the audio from the latest _match.com_ television advert.
+Following on from the [previous post]({{< relref "dat401-task-remix-workshop" >}}), I spent some time mashing up some clips from my favourite movie, _Blade Runner_, with the audio from the latest _match.com_ television advert.
 
 I find _match.com_'s adverts annoying upbeat and optimistic, but this was perfect to juxtapose with the gloomy distopian visuals of the film.
 

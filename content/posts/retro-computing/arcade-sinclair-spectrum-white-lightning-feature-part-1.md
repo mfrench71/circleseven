@@ -16,7 +16,7 @@ This is part one an a series of Spectrum White Lightning articles originally wri
 
 <!--more-->
 
-From the user manual:
+#### From the User Manual
 
 _"White Lightning_ is a high level development system for the Spectrum 48K. It is aimed primarily at the user who has commercial games writing in mind and has the patience to learn a sizeable new language. It is not a games designer and stunning results probably won't be produced overnight, but it does have the power and flexibility to produce software of a commercial standard (with a little perseverance!). "
 
@@ -24,7 +24,7 @@ For some further context for this article, please see ['Arcade' - A Sinclair ZX 
 
 ---
 
-## White Lightning Feature
+#### White Lightning Feature
 
 This feature is to help owners of White Lightning to get good, fast results from the package and to produce small routines to incorporate into larger Forth/BASIC programs to create 'arcade' quality games. I have included notes on the programs to help [Laser BASIC](http://www.worldofspectrum.org/infoseekid.cgi?id=0008327) owners convert to their language.
 
@@ -42,7 +42,7 @@ The first routine you may recognise as a part of the demonstration.
 
 After that, type `6 LOAD` and then `GO`.
 
-**Notes on conversion:**
+#### Notes on conversion:
 
 Line 0: defines a word called `DELAY` which does a no-operation (does nothing) (NOOP) loop 0 - 500 to act as a pause.
 
@@ -64,7 +64,7 @@ Matthew F.
 
 ---
 
-## The Originals
+#### The Originals
 
 {{< post-image image="white-lighting-1-original-1.jpg" width="300" caption="" >}}
 

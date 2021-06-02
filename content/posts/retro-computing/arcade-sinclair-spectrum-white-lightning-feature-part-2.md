@@ -16,7 +16,7 @@ This is part two in a series of Spectrum White Lightning articles originally wri
 
 <!--more-->
 
-From the user manual:
+#### From the User Manual
 
 _"White Lightning_ is a high level development system for the Spectrum 48K. It is aimed primarily at the user who has commercial games writing in mind and has the patience to learn a sizeable new language. It is not a games designer and stunning results probably won't be produced overnight, but it does have the power and flexibility to produce software of a commercial standard (with a little perseverance!). "
 
@@ -26,7 +26,7 @@ For some further context for this article, please see ['Arcade' - A Sinclair ZX 
 
 ---
 
-## White Lightning Feature
+#### White Lightning Feature
 
 Yes, I've made it! Never fear! This feature has made it to its next month. Amazing, isn't it? Anyway, with the sprites in memory, type this into screen 6 and then type `6 LOAD` and then `TEST 1` and press 'Enter':
 
@@ -46,7 +46,7 @@ This routine would be useful if you had a game like [Lunar Jetman](http://www.wo
 
 When you press 'Space', the landscape goes left, and right when you press 'Caps Shift', rather than the expected right for 'Space' and left for 'Caps' because this simulates a character going over the landscape from left to right and so the landscape would go left and vice-versa.
 
-**Notes on conversion:**
+#### Notes on Conversion
 
 Line 0: sets up sprite 44 - the lunar landscape.
 
@@ -84,7 +84,7 @@ Type `6 LOAD` then `FINAL`.
 
 ---
 
-## The Originals
+#### The Originals
 
 {{< post-image image="white-lightning-2-original-1.jpg" width="300" caption="" >}}
 {{< post-image image="white-lightning-2-original-2.jpg" width="300" caption="" >}}

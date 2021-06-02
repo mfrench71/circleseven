@@ -80,7 +80,7 @@ I used the Mayan apocalypse prediction as a focus because, as an event that neve
 
 #### References
 
-#### Video References
+##### Video References
 
 - ABC 10 News (2012) _San Diegans prepare for Mayan doomsday: Mayan calendar ends on December 21, 2012_. Available at: https://youtu.be/r6E61dmlZnc (Accessed: 20 May 2016).
 - ABC15 Arizona (2012) _Mayan apocalypse a bust?_ Available at: https://youtu.be/loZoC7VLEx0 (Accessed: 20 May 2016).
@@ -104,12 +104,12 @@ I used the Mayan apocalypse prediction as a focus because, as an event that neve
 - Tony Morabito (2011) _9 11 actual crash footage of 2nd plane_. Available at: https://youtu.be/mlnLVw0i7sA (Accessed: 20 May 2016).
 - UltimateChase (2010) _Hurricane Katrina historic storm surge video - Gulfport, Mississippi_. Available at: https://youtu.be/-Kou0HBpX4A (Accessed: 20 May 2016).
 
-#### Audio References
+##### Audio References
 
 - emimusic (2009) _R.E.M. - it’s the end of the world_. Available at: https://youtu.be/Z0GFRcFm-aY (Accessed: 20 May 2016).
 - xoLove1Anotherxo (2008) _Star Spangled banner karaoke instrumental_. Available at: https://youtu.be/GH2Oa9BJzYM (Accessed: 20 May 2016).
 
-#### Literary References
+##### Literary References
 
 - _2012 phenomenon_ (2016) in _Wikipedia_. Available: [here](https://en.wikipedia.org/wiki/2012_phenomenon) (Accessed: 22 May 2016).
 - Oxford (2016) ‘Prepper’, in _Oxford Dictionary_. Available: [here](http://www.oxforddictionaries.com/definition/english/prepper) (Accessed: 22 May 2016).

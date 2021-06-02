@@ -21,6 +21,8 @@ or
 
 {{< post-image image="dat401-assignment-3-nazca.jpg" width="300" class="right" caption="Nazca Lines: Giant ancient line art drawn in the Peruvian desert so large that it can only be fully seen from the sky" >}}
 
+#### Initial Discussion
+
 Working in a group of three, we discussed two ideas to meet the second option of this assignment brief. The first was to display a message or performance visible only to satellite photography by creating structures or heat signatures on the ground that would be photographed by surveillance satellites. This had a precedent in the Nazca lines of Peru.
 
 The second idea, and the one that the group decided to pursue was, again, to use an unusual alternative method of communication to send a message or make a statement, this time using a method much closer to home.
@@ -37,7 +39,7 @@ The group thought that it would be novel, challenging and unusual to present a p
 
 In his article, Clarke states that privacy includes "privacy of the physical person". Individuals choosing this method of communication maintain their physical privacy, but only up until the point that their message is revealed by the medium of x-ray. Individuals are, however, willingly abdicating their privacy at a time, to a large extent, of their choosing.
 
-#### Why the human body?
+##### Why the human body?
 
 - Data/message remains inviolate
 - A unique biological fingerprint/genome authentication might be employed to restrict access to information

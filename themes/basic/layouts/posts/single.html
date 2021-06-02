@@ -18,7 +18,7 @@
     <section class="related">
         {{ $related := .Site.RegularPages.Related . | first 5 }} 
         {{ with $related }}
-            <h3>Related pages</h3>
+            <h3>Related Pages</h3>
             <ul>
                 {{ range . }}
                     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
@@ -32,4 +32,8 @@
         {{ template "_internal/disqus.html" . }}
     </section>
 </article>
+{{ end }}
+
+{{ define "sidebar" }}
+{{ partial "table-of-contents.html" . }}
 {{ end }}

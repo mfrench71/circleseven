@@ -17,17 +17,23 @@ Working in a group of three, we decided to produce a crowdsourced film made up o
 
 <!--more-->
 
+#### What is Crowdsourcing?
+
 "Crowdsourcing is a sourcing model in which individuals or organizations obtain goods or services, including ideas, voting, micro-tasks and finances, from a large, relatively open and often rapidly evolving group of participants." (<https://en.wikipedia.org/wiki/Crowdsourcing>)
 
 Example crowdsourced music video:
 
 {{< youtube id="c_CbmW-dBxo" class="youtube" >}}
 
+#### Initial Discussion
+
 There was an initial group discussion around:
 
 - A good location to engage and film contributors
 - Splitting up the song into sufficient sections to allow effective use of crowdsourcing, but not so many that filming them would prove impractical given the time allocated to the task
 - Variations in final presenation format, such as: just the filmed contributions assembled into one clip, playing the contributions alongside the actual footage sourced from Youtube (with no audio), or playing the contributions accompanied by audio with no vocals
+
+#### Implementation
 
 Lyric sheets were produced as an aide memoire for participants, along with brief instructions:
 
@@ -42,6 +48,8 @@ Once the group had attracted the attention of a potential contributor, we explai
 Each video clip was captured using an iPhone; the group thought this would be more unobtrusive than a DSLR or full-sized video camera. An audio recorder borrowed from the Media Hub was used to capture better quality sound than that available with the iPhone.
 
 All of the video and audio clips were then synced together and assembled into the finished piece using Adobe Premier. There were a number of audio clips that were missing, so these were recorded separately by a member of the team and edited using Adobe Audition.
+
+#### Critical Evaluation
 
 Reflecting on the assignment, I was pleasantly surprised how co-operative most people were (though male students in groups seemed more willing to participate than female students) and, as a first year, I enjoyed meeting fellow students. I was expecting this part of the project to take much longer than it did and was pleased at the progress we made.
 

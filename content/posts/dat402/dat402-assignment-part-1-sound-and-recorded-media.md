@@ -51,7 +51,7 @@ To that end, I roamed my local area, recording the sounds of water, birds, foots
 
 #### A breakdown of the final sound design piece
 
-#### Introduction
+##### Introduction
 
 Using a shotgun microphone and Zoom recorder, I recorded an out of tune radio broadcast whilst sitting in a car. This then transitions into an introductory voiceover using my own voice affected using a 'telephone voice' audio effect. This is to suggest the interruption of a radio programme by the announcer. To add emphasis to the final 'sound design' words of the voiceover, the audio is enhanced with a reverb effect.
 
@@ -59,23 +59,23 @@ What follows is a voiceover to give some background to my piece. The quotes are 
 
 The voiceover continues, explaining my aims and thinking for the sound work and is accompanied by an excerpt from John Williams' _Main Theme_ from the _Star Wars_ score.
 
-#### Part 1
+##### Part 1
 
 I recorded the sound of primary school children playing outside at a school that is around the corner from where I live. The first audio clip is, essentially, as recorded. The second part features the same audio clip, but with the pitch shifted down and some reverberation to give a more sinister feel to the sound. This demonstrates how the same sound clip can be used to create a contrast or sense of place or evoke contrasting emotions.
 
-#### Part 2
+##### Part 2
 
 {{< post-image image="dat402-part-1-gd" width="300" class="" caption="Gwynne, the dog" >}}
 
 This sequence is an attempt to emulate Ben Burtt's sound design for the cantina sequence in _Star Wars_. The recording is an assembly of street sounds and music and traffic combined with recordings of our dog (at both the original pitch and a raised pitch) and birdsong during a dawn chorus. The animal sounds are shifted in the stereo field to give an impression of space and immersion within the created audio environment.
 
-#### Part 3
+##### Part 3
 
 {{< post-image image="dat402-part-1-well" width="300" class="right" caption="Metal well cover" >}}
 
 My aim for this part of the piece was to create an industrial, dystopian atmosphere. A recording of school children playing was lowered in pitch to sound like an ominous moaning. The sound of an idling bus engine is lowered in pitch to create a mechanical-sounding background. The thumping percussive effects are created from the sound of me thumping a metal well cover with my hand and also with a stone. Reverberation is added to give a boom to the impact and to evoke the sound of massive machinery at work. The various screams were my own screams, changed in pitch and with added reverberation as well as being panned left and right in the stereo field. A voiceover with telephone voice effect is used to maintain the feeling of a mechanical/technological atmosphere.
 
-#### Part 4
+##### Part 4
 
 I wanted to experiment with some vocalisation effects to achieve my own version of the iconic voice of Darth Vader from the _Star Wars_ films. The original Darth Vader voice was created with the use of SCUBA breathing equipment. I recorded my own voice, which I enhanced with pitch shift, reverberation and modulation effects such as subtle flange and chorus to achieve an approximation of the original. This section is accompanied by _The Imperial March_ theme from the _Star Wars_ movies. The appearance of Darth Vader in the film franchise is almost always accompanied by this piece of music, so it seemed fitting for me to use this to make use of its status as a piece that evokes an image of overwhelming power and tyranny.
 
@@ -83,14 +83,14 @@ I wanted to experiment with some vocalisation effects to achieve my own version 
 
 {{< post-image image="dat402-part-1-books" width="300" class="" caption="Further reading" >}}
 
-#### Literary References
+##### Literary References
 
 - LoBrutto, V. (1994) _Sound-on-film: Interviews with creators of film sound_. United States: Greenwood Publishing Group.
 - SA, K. (2016) _The group at a glance_. Available at: [https://www.nagra.com/group/​at-a-glance](https://www.nagra.com/group/at-a-glance) (Accessed: 11 May 2016).
 - Sobchack, V. C. (1997) _Screening space: The American science fiction film_. 2nd edn. New Brunswick, NJ: Rutgers University Press.
 - Whittington, W. (2007) _Sound design and science fiction_. Austin: University of Texas Press.
 
-#### Audio References
+##### Audio References
 
 - Coltsrock56 (2012) _John Williams - Star Wars main theme (full)_. Available at: https://www.youtube.com/watch?v=_D0ZQPqeJkk (Accessed: 12 May 2016).
 - Merhawk102 (2007) _Star wars- the imperial march (Darth Vader’s theme)_. Available at: <https://www.youtube.com/watch?v=-bzWSJG93P8> (Accessed: 11 May 2016).

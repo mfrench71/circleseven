@@ -17,11 +17,15 @@ Your intervention can be street-based, in a public place, or part of your home o
 
 <!--more-->
 
+#### The Idea
+
 Myself and Jordan Trembeth decided to create an artistic intervention by placing musical instruments (two guitars and bongos) in a public setting. The setting we chose was a busy area of the Plymouth University campus.
 
 We were interested to see people's reaction and engagement with these items being placed literally in their path in an environment where such things would be incongruous and unexpected.
 
 {{< youtube id="U8wE0-wLMuc" class="youtube" >}}
+
+#### Critical Evaluation
 
 I was pleasantly surprised by the interest shown by passers by; eight performance were captured within a period of approximately 90 minutes. The conversations that we had with those taking part were interesting and entertaining. Several people mentioned that they played guitar or used to play guitar. Leaving an instrument out in the open, inviting interaction, seemed to bring something out in people. We even had one individual who had never played in his life but gamely had a go!
 

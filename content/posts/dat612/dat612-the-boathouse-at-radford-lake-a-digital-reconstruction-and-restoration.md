@@ -36,7 +36,7 @@ Finally, a pause menu provides access to some of the archive material on which t
 
 My research was divided into two broad areas: (1) photogrammetry software and techniques, and (2) surveying suitable sites for digital recreation and sourcing archive images.
 
-#### Software
+##### Software
 
 Having carried out some research on the various photogrammetry software packages available and the recommended shooting techniques and workflow, I decided to use RealityCapture. This seemed to combine speed of processing with an intuitive workflow. Below is a link to the, admittedly somewhat rough, result of my first proper test, carried out in my back garden.
 
@@ -54,7 +54,7 @@ The above model was created from approximately 400 photographs taken over two da
 
 Clearly there are a number of anomalies, especially around the chimney, and there are some floating artefacts which need to be addressed. However, I was pleased with the appearance of the building’s texture and the fact that I have been able to capture small details, such as the ‘1640’ inscription above the fireplace.
 
-#### Site Surveys/Archive Images
+##### Site Surveys/Archive Images
 
 Initially, I made use of social media to spread awareness of my project and to gain some possible suggestions for sites suitable for digital recreation. Through Facebook, I contacted the Plymouth Archaeological Society (PAS) and The Friends of Radford Woods.
 
@@ -72,7 +72,7 @@ Additional images were sourced from the internet and from the archives at Plymou
 
 Having decided upon and tested suitable photogrammetry software and having found an appropriate site and archive material for a digital recreation, the development process could begin.
 
-#### Planning & Modelling the Terrain
+##### Planning & Modelling the Terrain
 
 The first step was to determine an overall plan and the boundaries of the environment; decisions were taken to establish which assets would be created through photogrammetry, which would need to be modelled from scratch, and which features of the natural geography would be incorporated to create the surroundings into which the created structures would be placed.
 
@@ -80,7 +80,7 @@ To that end, I created an aerial plan of the site with the position of key featu
 
 Over the course of the project, the terrain evolved and became more representative of the actual terrain of the location. Pathways through the woods were created, inviting users to explore the environment and to be able to view the areas of interest from different vantage points. Subtle changes in slope and elevation were incorporated, such as those in the formal garden area. Flowers, plants, ferns, and rocks were included to add interest and variation. Practical technical issues were also addressed at this time, such as adding ‘colliders’ to prevent users wandering outside the bounds of the environment or falling in the lake.
 
-#### Photogrammetry – Creating the Buildings
+##### Photogrammetry – Creating the Buildings
 
 At the same time, I made a number of visits to the Boathouse site to begin the photogrammetry process. This involved photographing the buildings from every available angle to acquire full coverage. My original tests had shown that anything that the camera doesn’t see doesn’t get modelled correctly. I purchased a painter’s pole, camera adapter, and a wireless shutter release to attempt to get higher elevation shots.
 
@@ -101,7 +101,7 @@ The structures that were created from photogrammetry are:
 
 https://youtu.be/gKkMz95iqCE
 
-#### Creating the ‘Restoration’
+##### Creating the ‘Restoration’
 
 To simulate the restoration process, a number of assets from the original buildings were required. These included, doors, windows, rooves, hedges, and pillars. These assets were modelled in Blender and then imported into the Unity environment.
 
@@ -111,7 +111,7 @@ Once these assets were incorporated and correctly scaled and positioned in relat
 
 The armoury doors have additional interaction, in that the user is able to open and close these with a keypress. This triggers an appropriate audio effect.
 
-#### Bringing the Environment to Life
+##### Bringing the Environment to Life
 
 Rather than just exploring a relatively static environment, I wanted the user to be able to experience my creation at any time of day; to be able to look up at the sky and see the clouds moving in the breeze, to see the sway of a tree’s branches, to hear the crackle of the log fire in the armoury and the lapping of water from the lake, and to witness the play of shadows across the formal gardens as the sun set behind the trees. I wanted to bring the environment to life.
 
