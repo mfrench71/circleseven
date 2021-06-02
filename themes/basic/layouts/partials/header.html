@@ -4,10 +4,12 @@
         <form class="d-flex" 
             action='{{ with .GetPage "/search" }}{{.Permalink}}{{end}}'
             method="get">
-            <input id="search-input" name="query" 
-                class="form-control me-2" type="search"
-                placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-light" type="submit">Search</button>
+            <div class="input-group">
+                <input id="search-input" name="query" 
+                    class="form-control" type="search"
+                    placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-light" type="submit"><i class="fas fa-search"></i></button>
+            </div>
         </form>
     </div>
 </nav>
