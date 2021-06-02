@@ -8,6 +8,7 @@ categories:
 tags:
 - DAT
 featured_image: dat401-loveyourmorphology
+layout: full-width
 ---
 
 Following on from the [previous post]({{< relref "dat401-task-remix-workshop" >}}), I spent some time mashing up some clips from my favourite movie, _Blade Runner_, with the audio from the latest _match.com_ television advert.
