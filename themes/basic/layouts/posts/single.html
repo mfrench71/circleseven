@@ -13,7 +13,7 @@
         {{ partial "post-meta.html" . }}
     </header>
 
-    <section class="body">{{ .Content }}</section>
+    <section class="body mt-3 mt-sm-0">{{ .Content }}</section>
 
     <section class="related">
         {{ $related := .Site.RegularPages.Related . | first 5 }} 
