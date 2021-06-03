@@ -23,7 +23,7 @@ Brief: Manufacture an animated show reel that displays the skills you have learn
 
 The introductory title sequence consists of a 10 second animation to introduce the show reel. This was designed to be an eyecatching and dramatic opening moment, both visually and aurally.
 
-The background reflects my theme of red, amber and green: the colours used in my 'Greenlight Design' [corporate identity assets](http://www.circleseven.co.uk/2015/11/16/dat403-assignment-corporate-identity-design/), and provides a subtle background for the main part of the animation.
+The background reflects my theme of red, amber and green: the colours used in my 'Greenlight Design' [corporate identity assets]({{< relref "dat403-assignment-corporate-identity-design" >}}), and provides a subtle background for the main part of the animation.
 
 Layered particle explosions are combined in a double explosion sequence. The first results in the 'DAT403 Show Reel' text emerging from the heart of the explosion. The follow-up detonation shatters and disperses the text title.
 
