@@ -19,7 +19,7 @@ Working in a group of three, we decided to produce a crowdsourced film made up o
 
 #### What is Crowdsourcing?
 
-"Crowdsourcing is a sourcing model in which individuals or organizations obtain goods or services, including ideas, voting, micro-tasks and finances, from a large, relatively open and often rapidly evolving group of participants." (<https://en.wikipedia.org/wiki/Crowdsourcing>)
+"[Crowdsourcing](<https://en.wikipedia.org/wiki/Crowdsourcing>) is a sourcing model in which individuals or organizations obtain goods or services, including ideas, voting, micro-tasks and finances, from a large, relatively open and often rapidly evolving group of participants."
 
 Example crowdsourced music video:
 

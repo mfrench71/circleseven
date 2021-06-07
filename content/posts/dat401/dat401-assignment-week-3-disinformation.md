@@ -33,9 +33,7 @@ The second idea, and the one that the group decided to pursue was, again, to use
 
 The group thought that it would be novel, challenging and unusual to present a performance or send a message/make a statement through the medium of medical X-rays. This method of communication might also raise a number of discussion points around privacy, ethics and morality.
 
-> “Privacy is the interest that individuals have in sustaining a ‘personal space’, free from interference by other people and organisations ... privacy has multiple dimensions, including privacy of the physical person”
-
-<http://www.rogerclarke.com/DV/IPrivacy.html>
+> “Privacy is the interest that individuals have in sustaining a ‘personal space’, free from interference by other people and organisations ... privacy has multiple dimensions, including privacy of the physical person” ([Reference](<http://www.rogerclarke.com/DV/IPrivacy.html>))
 
 In his article, Clarke states that privacy includes "privacy of the physical person". Individuals choosing this method of communication maintain their physical privacy, but only up until the point that their message is revealed by the medium of x-ray. Individuals are, however, willingly abdicating their privacy at a time, to a large extent, of their choosing.
 
