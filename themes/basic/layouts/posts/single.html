@@ -1,13 +1,15 @@
+{{ define "banner" }}
+{{ with .Params.featured_image }}
+    <figure class="banner">
+        <img  
+            src="{{ $.Site.Params.cdn_base_url }}/{{ . }}" 
+            alt="post-image"/>
+    </figure>
+    {{ end }}
+{{ end }}
+
 {{ define "main" }}
 <article class="post">
-    {{ with .Params.featured_image }}
-        <figure class="text-center">
-            <img 
-                class="img-fluid" 
-                src="{{ $.Site.Params.cdn_base_url }}/w_{{ $.Site.Params.featured_image_single_width }}/{{ . }}" 
-                alt="post-image"/>
-        </figure>
-    {{ end }}
     <header>
         <h1>{{ .Title }}</h1>
         {{ partial "post-meta.html" . }}

@@ -60,6 +60,20 @@ a {
     z-index: 1;
 }
 
+figure {
+
+    &.banner {
+        margin: 0;
+        height: 12rem;
+
+        & img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+}
+
 article {
 
     & h2, h4 {
