@@ -1,5 +1,5 @@
 ---
-title: "'Arcade' - a Sinclair ZX Spectrum Fanzine"
+title: "'Arcade' - A Sinclair ZX Spectrum Fanzine"
 date: 2018-03-07T12:16:33+01:00
 draft: false
 description: 

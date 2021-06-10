@@ -1,5 +1,5 @@
 ---
-title: "DAT401 - Task: Remix Workshop"
+title: "DAT401 Task - Remix Workshop"
 date: 2015-10-19T20:17:00+01:00
 draft: false
 description: 

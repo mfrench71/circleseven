@@ -37,6 +37,15 @@ a {
     }
 }
 
+.pagination {
+    justify-content: center;
+    flex-wrap: wrap;
+
+    & li {
+        margin-top: 0.5rem;
+    }
+}
+
 .recent-posts {
 
     & ul {

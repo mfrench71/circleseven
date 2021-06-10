@@ -1,5 +1,5 @@
 ---
-title: "DAT401 - Research Task: Portfolios"
+title: "DAT401 Research Task - Portfolios"
 date: 2015-09-29T11:39:00+01:00
 draft: false
 description: 

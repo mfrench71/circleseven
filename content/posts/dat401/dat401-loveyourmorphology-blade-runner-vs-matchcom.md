@@ -1,5 +1,5 @@
 ---
-title: "DAT401 - #Loveyourmorphology: Blade Runner vs Match.com"
+title: "DAT401 #Loveyourmorphology: Blade Runner vs Match.com"
 date: 2015-10-20T21:05:00+01:00
 draft: false
 description: 

@@ -1,5 +1,5 @@
 ---
-title: "DAT403 - Assignment - Animation Show Reel"
+title: "DAT403 Assignment - Animation Show Reel"
 date: 2015-11-21T18:06:00+01:00
 draft: false
 description: 
