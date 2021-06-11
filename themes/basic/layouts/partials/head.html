@@ -11,6 +11,11 @@
         {{- else -}}
             {{ .Site.Params.description }}
         {{- end -}}">
+    {{ if .Params.noindex }}
+        <meta name="robots" content="noindex" />
+    {{ else }}
+        <meta name="robots" content="noarchive">
+    {{ end }}
     <title>
         {{- if .Page.IsHome -}}
             {{ .Site.Title }}

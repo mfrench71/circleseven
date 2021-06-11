@@ -1,5 +1,5 @@
 ---
-title: "DAT403 Task Week 1 - Drama Queen Photomontage"
+title: "DAT403 Task Week 1 - 'Drama Queen' Photomontage"
 date: 2015-10-27T17:00:00+01:00
 draft: false
 description: 
