@@ -2,7 +2,6 @@ baseURL = "https://www.circleseven.co.uk"
 languageCode = "en"
 title = "Matthew French"
 theme = "basic"
-disqusShortname = "circleseven"
 
 paginate = 5
 
